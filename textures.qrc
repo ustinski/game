@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/background.png</file>
+        <file>textures/base.png</file>
+        <file>textures/cannon.png</file>
+        <file>textures/scope.png</file>
+        <file>textures/bubble50.png</file>
+        <file>textures/bubble100.png</file>
+        <file>textures/bubble150.png</file>
+        <file>textures/shadow150.png</file>
+        <file>textures/shadow100.png</file>
+        <file>textures/shadow50.png</file>
+        <file>textures/shadow15.png</file>
+        <file>textures/ball.png</file>
+        <file>textures/refraction150.png</file>
+        <file>textures/refraction100.png</file>
+        <file>textures/refraction50.png</file>
+        <file>textures/QUIT100.png</file>
+        <file>textures/QUIT150.png</file>
+        <file>textures/RESUME100.png</file>
+        <file>textures/RESUME150.png</file>
+        <file>textures/START100.png</file>
+        <file>textures/START150.png</file>
+    </qresource>
+</RCC>

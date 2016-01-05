@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>font/25/_sl.png</file>
+        <file>font/25/_tp.png</file>
+        <file>font/25/0.png</file>
+        <file>font/25/1.png</file>
+        <file>font/25/2.png</file>
+        <file>font/25/3.png</file>
+        <file>font/25/4.png</file>
+        <file>font/25/5.png</file>
+        <file>font/25/6.png</file>
+        <file>font/25/7.png</file>
+        <file>font/25/8.png</file>
+        <file>font/25/9.png</file>
+        <file>font/25/A.png</file>
+        <file>font/25/B.png</file>
+        <file>font/25/C.png</file>
+        <file>font/25/D.png</file>
+        <file>font/25/E.png</file>
+        <file>font/25/F.png</file>
+        <file>font/25/G.png</file>
+        <file>font/25/H.png</file>
+        <file>font/25/I.png</file>
+        <file>font/25/J.png</file>
+        <file>font/25/K.png</file>
+        <file>font/25/L.png</file>
+        <file>font/25/M.png</file>
+        <file>font/25/N.png</file>
+        <file>font/25/O.png</file>
+        <file>font/25/P.png</file>
+        <file>font/25/Q.png</file>
+        <file>font/25/R.png</file>
+        <file>font/25/S.png</file>
+        <file>font/25/T.png</file>
+        <file>font/25/U.png</file>
+        <file>font/25/V.png</file>
+        <file>font/25/W.png</file>
+        <file>font/25/X.png</file>
+        <file>font/25/Y.png</file>
+        <file>font/25/Z.png</file>
+    </qresource>
+</RCC>

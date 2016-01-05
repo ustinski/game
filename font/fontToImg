@@ -1,0 +1,35 @@
+#!/bin/bash
+
+if [ -z $1 ]
+then
+	echo "Usage: ./fontToImg <size>"
+	exit
+fi
+
+SIZE=$1
+DIR=$SIZE
+
+function conv {
+    if [ -z $2 ]; then
+        FILE=$1
+    else
+        FILE=$2
+    fi
+    convert -negate -background none -fill black -font SigmarOne.otf -pointsize $SIZE label:"$1" "$DIR"/"$FILE".png
+}
+
+rm -rf $DIR
+mkdir $DIR
+
+for x in {A..Z}
+do
+    conv $x
+done
+
+for x in {0..9}
+do
+    conv $x
+done
+
+conv ":" _tp
+conv "/" _sl
