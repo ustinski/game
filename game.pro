@@ -66,7 +66,3 @@ RESOURCES += \
 # replace numbers with const
 # remove width and height from mesh arguments
 
-# commit:
-# fixed box2d update
-# pointer is in center at start
-
